@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i ./static/css/style.css -o ./static/css/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "nes.css": "^2.2.1",
+    "tailwindcss": "^4.1.18"
+  }
+}
