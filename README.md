@@ -48,6 +48,26 @@ Make sure you have installed:
 
 ---
 
+## 🧠 How It Works
+
+This app lets you upload PDF files from your device and merges them server-side using Python.
+By keeping the tool open-source and self-hosted, Mergeu avoids expensive subscription models found in many web PDF utilities.
+
+
+## 📁 File Structure (Example)
+
+```bash
+.
+├── static/           # Tailwind, NES.css, JS
+├── templates/        # HTML pages
+├── main.py           # Flask app entrypoint
+├── merger.py         # PDF merge logic
+├── Dockerfile        # Docker config
+├── requirements.txt  # Python deps
+├── package.json      # JS deps
+└── README.md         # This file
+```
+
 ## ⚙️ Installation
 
 ### Clone the repository
@@ -56,7 +76,15 @@ Make sure you have installed:
 git clone https://github.com/samnne/mergeu.git
 cd mergeu
 ```
+## 🎨 UI
+
+The frontend is styled with Tailwind CSS and NES.css, giving a fun 8-bit aesthetic with utility classes for layout and responsiveness.
+
 
 ## CHECK IT OUT HERE 👇👇👇
 [MergeU - PDF Merger](https://sppmergepdf-580782691256.us-west1.run.app/)
 
+
+📜 License
+
+This project is MIT Licensed.
