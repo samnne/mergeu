@@ -58,4 +58,5 @@ cd mergeu
 ```
 
 ## CHECK IT OUT HERE 👇👇👇
-[https://sppmergepdf-580782691256.us-west1.run.app/](MergeU)
+[MergeU - PDF Merger](https://sppmergepdf-580782691256.us-west1.run.app/)
+
