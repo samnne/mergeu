@@ -32,7 +32,7 @@ Mergeu gives you:
 - **Backend**: Flask (Python)
 - **Frontend**: JavaScript + Tailwind CSS + NES.css
 - **Containerization**: Docker
-- **Deployment**: Can be deployed on services like Google Cloud Run
+- **Deployment**: Google Cloud Run
 
 ---
 
@@ -55,3 +55,7 @@ Make sure you have installed:
 ```bash
 git clone https://github.com/samnne/mergeu.git
 cd mergeu
+```
+
+## CHECK IT OUT HERE 👇👇👇
+[https://sppmergepdf-580782691256.us-west1.run.app/](MergeU)
